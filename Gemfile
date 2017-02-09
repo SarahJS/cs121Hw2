@@ -10,12 +10,13 @@ end
 gem 'rails', '~> 5.0.1'
 
 gem 'devise'
+
+gem "paperclip", "~> 5.0.0"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
 gem 'bootstrap-sass', '~> 3.3.6'
 
-gem 'sass-rails', '>= 3.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
