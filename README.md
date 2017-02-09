@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Instagram-like website created for cs121 Homework 2.
 
 * Ruby version
 
-* System dependencies
+2.4.0
 
-* Configuration
+* Rails version
 
-* Database creation
+5.0.0
 
-* Database initialization
+* To Do/Bugs
+  
+  ##Still can't add images correctly. Getting an error from paperclip.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  ## Add styling. It's currently pretty bare-bones.
