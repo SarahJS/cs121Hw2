@@ -1,6 +1,6 @@
 <% @posts.each do |x| %>
-  <div class="white">
-    <%= image_tag x.image.url(:medium) %>
+  <div class="col-sm-4 image">
+    <%= image_tag x.image.url(:small) %>
     <br>
     <%= x.description %>
   </div>
