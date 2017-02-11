@@ -1,6 +1,7 @@
 # README
 
-Instagram-like website created for cs121 Homework 2.
+Instagram-like website created for cs121 Homework 2, following this tutorial:
+https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
 ### Ruby version
 
@@ -10,8 +11,9 @@ Instagram-like website created for cs121 Homework 2.
 
 5.0.0
 
-### To Do/Bugs
-  
-  * Still can't add images correctly. Getting an error from paperclip.
+### Functionality Included:
 
-  * Add styling. It's currently pretty bare-bones.
+* Login
+* Register
+* Create Posts
+* Styling added using bootstrap grid classes (http://getbootstrap.com/css/#grid)
